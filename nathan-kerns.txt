@@ -1,0 +1,23 @@
+Which IDE do you use most?
+
+Visual Studio
+
+What is your level of Eclipse experience (1-5)?
+
+1
+
+What is your Git experience?
+
+1
+
+What topic is most important?
+
+?
+
+Are you a prisoner, vacationer or explorer?
+
+Explorer
+
+What do you do you do for fun?
+
+Video games
