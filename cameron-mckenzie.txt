@@ -1,11 +1,23 @@
 Which IDE do you use most?
 
+STS
+
 What is your level of Eclipse experience (1-5)?
+
+5
 
 What is your Git experience?
 
-What topic is most imortant?
+5
 
-Are you a prisoner, vacationer or explorere?
+What topic is most important?
+
+Spelling
+
+Are you a prisoner, vacationer or explorer?
+
+Explorer
 
 What do you do you do for fun?
+
+Write!
